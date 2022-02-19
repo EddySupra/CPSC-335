@@ -1,2 +1,2 @@
 # CPSC-335
-Eduardo Casas, 
+Eduardo Casas, Ismail Hasan
